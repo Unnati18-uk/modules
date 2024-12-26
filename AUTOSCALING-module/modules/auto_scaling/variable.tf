@@ -1,0 +1,12 @@
+variable "region" {}
+variable "vpc_cidr" {}
+variable "name" {}
+variable "az1" {}
+variable "az2" {}
+variable "private_sub_a_cidr" {}
+variable "private_sub_b_cidr" {}
+variable "public_sub_a_cidr" {}
+variable "public_sub_b_cidr" {}
+variable "image_id" {}
+variable "instance_type" {}
+variable "key_name" {}
